@@ -11,7 +11,7 @@ export const Logo = (): JSX.Element => {
         width={48}
         height={48}
       />
-      <h1 className="font-bold">Quivr</h1>
+      <h1 className="font-bold">奇点引擎</h1>
     </Link>
   );
 };
